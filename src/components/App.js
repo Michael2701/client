@@ -6,6 +6,9 @@ import StreamList from './streams/StreamList';
 import StreamShow from './streams/StreamShow';
 import Header from './Header';
 
+const client_key = '1051945063026-2b4vvbt57m8k6m4lf264ti77kor1nvcr.apps.googleusercontent.com';
+const client_secret = 'umLXHYEwtS5BjeIPpWbwbJxn';
+
 export default () => {
     return (
         <div className="ui container">
